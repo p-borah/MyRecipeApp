@@ -1,0 +1,2 @@
+# Prioritize Kotlin as the main language
+*.kt linguist-language=Kotlin
